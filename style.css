@@ -15,6 +15,7 @@
   #CUSTOM PROPERTY
 \*-----------------------------------*/
 
+
 :root {
 
     /**
@@ -828,7 +829,17 @@
     font-weight: var(--fw-300);
     line-height: 1.6;
   }
+
+  .btn {
+    background-color: rgb(10, 190, 115);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    font-size: 15px;
+    border-radius: 28px;
+  }
   
+ 
   
   /**
    * skills 
